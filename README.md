@@ -1,5 +1,16 @@
-[![HitCount](http://hits.dwyl.io/Synaxis/bfheroesFesl.svg)](http://hits.dwyl.io/Synaxis/bfheroesFesl)
-# Open Heroes Backend Master Server
+
+# THIS CODE does have "BAD PRACTICE" And was used for learning.
+It does not have the purpose for reference.
+But only for archive and history.
+Do not use this as your own code and on your portfolio
+
+
+Esse código contém "não boas praticas". E eu usei para aprender.
+Esse código não é feito para referencia ou aprendizado de outras pessoas.
+Está arquivado.
+Não utilize codigo dos outros no seu curriuclo.
+
+# Open Heroes Backend
    UNFINISHED CODE
    ```How to
    1 download the repository with git
