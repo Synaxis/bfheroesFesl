@@ -2,39 +2,16 @@
 # THIS CODE does have "BAD PRACTICE" And was used for learning.
 It does not have the purpose for reference.
 But only for archive and history.
-Please mention the fork
+Please mention the fork 
 
 
 Esse código contém "não boas praticas". E eu usei para aprender.
 Esse código não é feito para referencia ou aprendizado de outras pessoas.
 Está arquivado.
-Por favor mencione o FORK
+Por favor mencione o FORK caso você clone , seja honesto!
 
 # Open Heroes Backend
-   UNFINISHED CODE
-   ```How to
-   1 download the repository with git
-   
-   git clone https://github.com/Synaxis/bfheroesFesl   
-   
-   2 copy the ENTIRE folder to your GOPATH
-   3- Open your favorite terminal/command
-   Windows CMD / git bash 
-   linux/Mac - terminal
-   
-   -Run Glide to download the vendor Packages
-   glide.exe
 
-   -Init your Settings 
-   glide init
-   
-   -Download it!
-   glide install   
-   
-   -Now build with Golang
-   go build main.go
-   
-```
 Remember to configure your GOPATH
 
 ## Configuration
